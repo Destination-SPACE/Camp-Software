@@ -28,6 +28,7 @@ Software needed for Destination SPACE Satellite Week
   - ```BH1750```
   - ```Adafruit SGP40 Sensor```
   - ```SparkFun SCD4x Arduino Library```
+  - ```Scheduler```
 
 ## VEXcode EXP v2.4.5
 1. Download VEXcode EXP
