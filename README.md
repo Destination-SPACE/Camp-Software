@@ -2,7 +2,7 @@
 Software needed for Destination SPACE Satellite Week
 
 ## Arduino IDE 2.1.0 (or newer)
-1. Download Arduino IDE 2.1.0 fro [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+1. Download Arduino IDE 2.1.0 from [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
 2. Install Arduino IDE
   - Agree to the license agreement
   - Complete setup
@@ -31,4 +31,5 @@ Software needed for Destination SPACE Satellite Week
   - ```Scheduler```
 
 ## VEXcode EXP v2.4.5
-1. Download VEXcode EXP
+1. Download VEXcode EXP from [https://www.vexrobotics.com/vexcode/install/exp](https://www.vexrobotics.com/vexcode/install/exp)
+2. Install VEXcode EXP
