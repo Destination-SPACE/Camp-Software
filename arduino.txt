@@ -1,0 +1,11 @@
+Board Manager: 
+https://files.seeedstudio.com/arduino/package_seeeduino_boards_index.json
+
+Libraries:
+Adafruit SSD1306
+Adafruit BME280 Library
+BH1750
+Adafruit SGP40 Sensor
+SparkFun SCD4x Arduino Library
+Adafruit LSM6DS
+Adafruit BMP3XX Library
