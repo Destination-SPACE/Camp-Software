@@ -21,16 +21,9 @@ Software needed for Destination SPACE Satellite Week
 1. Open Arduino IDE
 2. Go to **Sketch > Include Library > Manage Libraries...**
 3. In the search box enter and install the following libraries:
-  
-  *Note: If prompted to **Install library dependencies**, click **Install All***
+
+*Note: If prompted to **Install library dependencies**, click **Install All***
   - ```Adafruit SSD1306``` by Adafruit
   - ```Adafruit BME280 Library``` by Adafruit
   - ```BH1750``` by Christopher Laws
-  - ```Adafruit SGP40 Sensor``` by Adafruit
   - ```SparkFun SCD4x Arduino Library``` by SparkFun Electronics
-  - ```Adafruit LSM6DS``` by Adafruit
-  - ```Adafruit BMP3XX Library``` by Adafruit
-
-## VEXcode EXP v2.4.5
-1. Download VEXcode EXP from [https://www.vexrobotics.com/vexcode/install/exp](https://www.vexrobotics.com/vexcode/install/exp)
-2. Install VEXcode EXP
