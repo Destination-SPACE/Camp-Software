@@ -2,7 +2,7 @@
 Software needed for Destination SPACE Satellite Week
 
 ## Arduino IDE 2.1.0 (or newer)
-1. Download Arduino IDE 2.1.0 from [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
+1. Download Arduino IDE 2.1.0 or newer from [https://www.arduino.cc/en/software](https://www.arduino.cc/en/software)
 2. Install Arduino IDE
   - Agree to the license agreement
   - Complete setup
